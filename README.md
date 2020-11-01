@@ -1,5 +1,7 @@
 # 면접 준비
 
+# [필독 공부 자료] https://github.com/WeareSoft/tech-interview
+
 ## JVM구조에 대해 설명하시오.
    
 ## GC처리 방법에 대해 설명하시오.
