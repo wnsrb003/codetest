@@ -2,20 +2,19 @@
 
 # [필독 공부 자료] https://github.com/WeareSoft/tech-interview
 
-## JVM구조에 대해 설명하시오.
+> JVM구조에 대해 설명하시오.
    
-## GC처리 방법에 대해 설명하시오.
+> GC처리 방법에 대해 설명하시오.
 
-## HashMap vs HashTable vs ConcurrentHashMap의 차이를 설명하시오.
-  > 
+> HashMap vs HashTable vs ConcurrentHashMap의 차이를 설명하시오.
+  
+> 접근제어자에 대해 설명하시오.
 
-##접근제어자에 대해 설명하시오.
+> interface와 abstract의 차이를 설명하시오.
 
-## interface와 abstract의 차이를 설명하시오.
+> StringBuilder와 StringBuffer의 차이에 대해 설명하시오.
 
-## StringBuilder와 StringBuffer의 차이에 대해 설명하시오.
-
-## try-with-resources에 대해 설명하시오.
+> try-with-resources에 대해 설명하시오.
 
 > Synchronize에 대해 설명하시오.
 
